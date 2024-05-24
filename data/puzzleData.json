@@ -1,0 +1,152 @@
+{
+  "1": {
+    "icon": "1.png",
+    "header": "h1.png",
+    "name": "Os Chapéus do Mágico",
+    "level": 1,
+    "geogebra": "urpsrx5b",
+    "new": false,
+    "apresentacao": "1yLq__6YC-zJqVSDucWiB50zW2E0cQ76Y",
+    "keywords": ["Lógica"]
+  },
+  "2": {
+    "icon": "2.png",
+    "header": "h2.png",
+    "name": "Pomar no Sítio",
+    "level": 1,
+    "geogebra": "b8zxsrym",
+    "new": false,
+    "apresentacao": "1x-k6zo_tl8zHmSsH4EZtnGQuLH2NhZ5n",
+    "keywords": ["Lógica"]
+  },
+  "3": {
+    "icon": "3.png",
+    "header": "h3.png",
+    "name": "A Raposa, o Ganso e o Feijão",
+    "geogebra": "rapfxgny",
+    "level": 1,
+    "new": false,
+    "apresentacao": "15ePsuM5UEE1xmgAigFeZyEk_dAWtZcw_",
+    "keywords": ["Lógica"]
+  },
+  "4": {
+    "icon": "4.png",
+    "header": "h4.png",
+    "name": "Dia das Crianças",
+    "level": 2,
+    "geogebra": "e84aqzge",
+    "new": false,
+    "apresentacao": "1eQicQIbRwlJUlGo0MYLkcKxx_E8UhC3u",
+    "keywords": ["Lógica"]
+  },
+  "5": {
+    "icon": "5.png",
+    "header": "h5.png",
+    "name": "Ultrapassagens na Estrada I",
+    "level": 1,
+    "geogebra": "hcba7mjh",
+    "new": false,
+    "apresentacao": "1sj3usTAJffOmaLwl0olXrTAyRUtsvcvM",
+    "keywords": ["Lógica", "Subtração", "Adição"]
+  },
+  "6": {
+    "icon": "5.png",
+    "header": "h5.png",
+    "name": "Ultrapassagens na Estrada II",
+    "level": 2,
+    "geogebra": "cfm6wmty",
+    "new": false,
+    "apresentacao": "1fubXgbaksHawBrh9L8v7ZONNFOCXhgmR",
+    "keywords": ["Lógica", "Subtração", "Adição"]
+  },
+  "7": {
+    "icon": "7.png",
+    "header": "h7.png",
+    "name": "Brincadeira entre Amigos I",
+    "level": 1,
+    "geogebra": "ywdzhww9",
+    "new": false,
+    "apresentacao": "1mHxq1IjWRjOJFl7aea5tkjNdLP-PeDcI",
+    "keywords": ["Lógica"]
+  },
+  "8": {
+    "icon": "7.png",
+    "header": "h7.png",
+    "name": "Brincadeira entre Amigos II",
+    "level": 2,
+    "geogebra": "n89vyedq",
+    "new": false,
+    "apresentacao": "1fKIfV8Z_Qnl5KkEjtcOZtS6oVlhHS7Wh",
+    "solucao": "1IvkxRCiu6MNJb7NZa1OaURZu2oklpCsS",
+    "discussao": "1Ht7FyNgJPfaSfSirAIAWRVp9Pkc9QgAv",
+    "docente": "1w69TttuNuVxIzTNYJUtBHXUzdZhgkGgh",
+    "confeccao": "1u6FPdKHK9E0i1yodo9VUqCs3cC3soutu",
+    "keywords": ["Lógica"]
+  },
+  "9": {
+    "icon": "9.png",
+    "header": "h9.png",
+    "name": "Super Fantino I",
+    "level": 1,
+    "geogebra": "djq4drg7",
+    "new": false,
+    "apresentacao": "1wzLTKl3WLUiaY8HwlEvm5BUCgsvLLb_Q",
+    "keywords": ["Adição"]
+  },
+  "10": {
+    "icon": "9.png",
+    "header": "h10.png",
+    "name": "Super Fantino II",
+    "level": 2,
+    "geogebra": "kcpkzrna",
+    "new": false,
+    "apresentacao": "1cpccWg62hzduRMEzKh4RbP3Jz4-LqR-L",
+    "keywords": ["Adição"]
+  },
+  "11": {
+    "icon": "11.png",
+    "header": "h11.png",
+    "name": "Desenho na Malha I",
+    "level": 1,
+    "geogebra": "p4dhxg75",
+    "new": false,
+    "apresentacao": "1r9vSlvNmT9uYdftpPM1_A5ZEZawRRW8W",
+    "keywords": ["Lógica", "Gráficos"]
+  },
+  "205": {
+    "icon": "205.png",
+    "header": "h205.png",
+    "name": "Relógio de Ponteiros",
+    "level": 3,
+    "geogebra": "xgwcvu42",
+    "new": false,
+    "keywords": []
+  },
+  "206": {
+    "icon": "206.png",
+    "header": "h206.png",
+    "name": "Sequências Numéricas",
+    "level": 3,
+    "geogebra": "m724sr6e",
+    "new": true,
+    "keywords": []
+  },
+  "207": {
+    "icon": "207.png",
+    "header": "h207.png",
+    "name": "Perímetros",
+    "level": 3,
+    "geogebra": "snwjyvew",
+    "new": true,
+    "keywords": []
+  },
+  "208": {
+    "icon": "208.png",
+    "header": "h208.png",
+    "name": "Ângulos",
+    "level": 3,
+    "geogebra": "nykgqze4",
+    "new": false,
+    "keywords": []
+  }
+}
