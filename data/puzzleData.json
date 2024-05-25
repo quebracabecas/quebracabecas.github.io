@@ -6,6 +6,7 @@
     "level": 1,
     "geogebra": "urpsrx5b",
     "new": false,
+    "portalID": 174,
     "apresentacao": "1yLq__6YC-zJqVSDucWiB50zW2E0cQ76Y",
     "keywords": ["Lógica"]
   },
@@ -16,6 +17,7 @@
     "level": 1,
     "geogebra": "b8zxsrym",
     "new": false,
+    "portalID": 181,
     "apresentacao": "1x-k6zo_tl8zHmSsH4EZtnGQuLH2NhZ5n",
     "keywords": ["Lógica"]
   },
@@ -26,6 +28,7 @@
     "geogebra": "rapfxgny",
     "level": 1,
     "new": false,
+    "portalID": 171,
     "apresentacao": "15ePsuM5UEE1xmgAigFeZyEk_dAWtZcw_",
     "keywords": ["Lógica"]
   },
@@ -36,6 +39,7 @@
     "level": 2,
     "geogebra": "e84aqzge",
     "new": false,
+    "portalID": 936,
     "apresentacao": "1eQicQIbRwlJUlGo0MYLkcKxx_E8UhC3u",
     "keywords": ["Lógica"]
   },
@@ -46,6 +50,7 @@
     "level": 1,
     "geogebra": "hcba7mjh",
     "new": false,
+    "portalID": 968,
     "apresentacao": "1sj3usTAJffOmaLwl0olXrTAyRUtsvcvM",
     "keywords": ["Lógica", "Subtração", "Adição"]
   },
@@ -56,6 +61,7 @@
     "level": 2,
     "geogebra": "cfm6wmty",
     "new": false,
+    "portalID": 974,
     "apresentacao": "1fubXgbaksHawBrh9L8v7ZONNFOCXhgmR",
     "keywords": ["Lógica", "Subtração", "Adição"]
   },
@@ -66,6 +72,7 @@
     "level": 1,
     "geogebra": "ywdzhww9",
     "new": false,
+    "portalID": 908,
     "apresentacao": "1mHxq1IjWRjOJFl7aea5tkjNdLP-PeDcI",
     "keywords": ["Lógica"]
   },
@@ -76,11 +83,8 @@
     "level": 2,
     "geogebra": "n89vyedq",
     "new": false,
+    "portalID": 918,
     "apresentacao": "1fKIfV8Z_Qnl5KkEjtcOZtS6oVlhHS7Wh",
-    "solucao": "1IvkxRCiu6MNJb7NZa1OaURZu2oklpCsS",
-    "discussao": "1Ht7FyNgJPfaSfSirAIAWRVp9Pkc9QgAv",
-    "docente": "1w69TttuNuVxIzTNYJUtBHXUzdZhgkGgh",
-    "confeccao": "1u6FPdKHK9E0i1yodo9VUqCs3cC3soutu",
     "keywords": ["Lógica"]
   },
   "9": {
@@ -90,6 +94,7 @@
     "level": 1,
     "geogebra": "djq4drg7",
     "new": false,
+    "portalID": 934,
     "apresentacao": "1wzLTKl3WLUiaY8HwlEvm5BUCgsvLLb_Q",
     "keywords": ["Adição"]
   },
@@ -100,6 +105,7 @@
     "level": 2,
     "geogebra": "kcpkzrna",
     "new": false,
+    "portalID": 935,
     "apresentacao": "1cpccWg62hzduRMEzKh4RbP3Jz4-LqR-L",
     "keywords": ["Adição"]
   },
@@ -110,6 +116,7 @@
     "level": 1,
     "geogebra": "p4dhxg75",
     "new": false,
+    "portalID": 248,
     "apresentacao": "1r9vSlvNmT9uYdftpPM1_A5ZEZawRRW8W",
     "keywords": ["Lógica", "Gráficos"]
   },
