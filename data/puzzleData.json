@@ -440,16 +440,6 @@
     "apresentacao": "",
     "keywords": ["Lógica"]
   },
-  "45": {
-    "icon": "45.png",
-    "header": "h45.png",
-    "name": "Concurso de Desenho",
-    "level": 1,
-    "geogebra": "qyd5y6a9",
-    "new": false,
-    "apresentacao": "",
-    "keywords": ["Lógica"]
-  },
   "46": {
     "icon": "46.png",
     "header": "h46.png",
@@ -886,16 +876,6 @@
     "name": "Feitiço do Dragão",
     "level": 2,
     "geogebra": "xc5ud6cy",
-    "new": false,
-    "apresentacao": "",
-    "keywords": ["Lógica"]
-  },
-  "90": {
-    "icon": "90.png",
-    "header": "h90.png",
-    "name": "Feitiços Estranhos",
-    "level": 2,
-    "geogebra": "tjya2jab",
     "new": false,
     "apresentacao": "",
     "keywords": ["Lógica"]
@@ -1552,7 +1532,7 @@
   },
   "159": {
     "icon": "159.png",
-    "header": "h159.png",
+    "header": "h158.png",
     "name": "Quadrado de Dominós II",
     "level": 2,
     "geogebra": "esdpe4fw",
