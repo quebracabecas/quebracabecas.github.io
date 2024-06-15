@@ -5,7 +5,6 @@
     "name": "Os Chapéus do Mágico",
     "level": 1,
     "geogebra": "urpsrx5b",
-    "new": false,
     "portalID": 174,
     "apresentacao": "1yLq__6YC-zJqVSDucWiB50zW2E0cQ76Y",
     "keywords": ["Lógica"]
@@ -16,7 +15,6 @@
     "name": "Pomar no Sítio",
     "level": 1,
     "geogebra": "b8zxsrym",
-    "new": false,
     "portalID": 181,
     "apresentacao": "1x-k6zo_tl8zHmSsH4EZtnGQuLH2NhZ5n",
     "keywords": ["Lógica"]
@@ -27,7 +25,6 @@
     "name": "A Raposa, o Ganso e o Feijão",
     "geogebra": "rapfxgny",
     "level": 1,
-    "new": false,
     "portalID": 171,
     "apresentacao": "15ePsuM5UEE1xmgAigFeZyEk_dAWtZcw_",
     "keywords": ["Lógica"]
@@ -38,7 +35,6 @@
     "name": "Dia das Crianças",
     "level": 2,
     "geogebra": "e84aqzge",
-    "new": false,
     "portalID": 936,
     "apresentacao": "1eQicQIbRwlJUlGo0MYLkcKxx_E8UhC3u",
     "keywords": ["Lógica"]
@@ -49,7 +45,6 @@
     "name": "Ultrapassagens na Estrada I",
     "level": 1,
     "geogebra": "hcba7mjh",
-    "new": false,
     "portalID": 968,
     "apresentacao": "1sj3usTAJffOmaLwl0olXrTAyRUtsvcvM",
     "keywords": ["Lógica", "Subtração", "Adição"]
@@ -60,7 +55,6 @@
     "name": "Ultrapassagens na Estrada II",
     "level": 2,
     "geogebra": "cfm6wmty",
-    "new": false,
     "portalID": 974,
     "apresentacao": "1fubXgbaksHawBrh9L8v7ZONNFOCXhgmR",
     "keywords": ["Lógica", "Subtração", "Adição"]
@@ -71,7 +65,6 @@
     "name": "Brincadeira entre Amigos I",
     "level": 1,
     "geogebra": "ywdzhww9",
-    "new": false,
     "portalID": 908,
     "apresentacao": "1mHxq1IjWRjOJFl7aea5tkjNdLP-PeDcI",
     "keywords": ["Lógica"]
@@ -82,7 +75,6 @@
     "name": "Brincadeira entre Amigos II",
     "level": 2,
     "geogebra": "n89vyedq",
-    "new": false,
     "portalID": 918,
     "apresentacao": "1fKIfV8Z_Qnl5KkEjtcOZtS6oVlhHS7Wh",
     "keywords": ["Lógica"]
@@ -93,7 +85,6 @@
     "name": "Super Fantino I",
     "level": 1,
     "geogebra": "djq4drg7",
-    "new": false,
     "portalID": 934,
     "apresentacao": "1wzLTKl3WLUiaY8HwlEvm5BUCgsvLLb_Q",
     "keywords": ["Adição"]
@@ -104,7 +95,6 @@
     "name": "Super Fantino II",
     "level": 2,
     "geogebra": "kcpkzrna",
-    "new": false,
     "portalID": 935,
     "apresentacao": "1cpccWg62hzduRMEzKh4RbP3Jz4-LqR-L",
     "keywords": ["Adição"]
@@ -115,7 +105,6 @@
     "name": "Desenho na Malha I",
     "level": 1,
     "geogebra": "p4dhxg75",
-    "new": false,
     "portalID": 248,
     "apresentacao": "1r9vSlvNmT9uYdftpPM1_A5ZEZawRRW8W",
     "keywords": ["Lógica", "Gráficos"]
@@ -126,8 +115,6 @@
     "name": "A Cartola de Clóvis",
     "level": 2,
     "geogebra": "dssndkfb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "14": {
@@ -136,8 +123,6 @@
     "name": "Afrânio, o Pesquisador I",
     "level": 1,
     "geogebra": "fqt8h8ux",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "15": {
@@ -146,8 +131,6 @@
     "name": "Afrânio, o Pesquisador II",
     "level": 2,
     "geogebra": "k5ddfsvd",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "16": {
@@ -156,8 +139,6 @@
     "name": "Ajustando a Temperatura",
     "level": 2,
     "geogebra": "stv96ksc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "17": {
@@ -166,8 +147,6 @@
     "name": "Andando de Bicicleta",
     "level": 1,
     "geogebra": "ydc9vtbb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "18": {
@@ -176,8 +155,6 @@
     "name": "Arranjo de Flores",
     "level": 1,
     "geogebra": "sxjyusjj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "19": {
@@ -186,8 +163,6 @@
     "name": "Arremesso de Argolas",
     "level": 1,
     "geogebra": "xxvf9mdj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "20": {
@@ -196,8 +171,6 @@
     "name": "Árvore no Lago",
     "level": 2,
     "geogebra": "udh77whh",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "22": {
@@ -206,8 +179,6 @@
     "name": "Bandeirinhas Juninas",
     "level": 1,
     "geogebra": "b9tys7y9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "23": {
@@ -216,8 +187,6 @@
     "name": "Barraca de Alimentos",
     "level": 1,
     "geogebra": "jnmtyffm",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "24": {
@@ -226,8 +195,6 @@
     "name": "Bilhetes de Entrada",
     "level": 2,
     "geogebra": "xkp5h33s",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "25": {
@@ -236,8 +203,6 @@
     "name": "Brincadeira dos Banquinhos",
     "level": 2,
     "geogebra": "arssaj2b",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "26": {
@@ -246,8 +211,6 @@
     "name": "Cactos e Suculentas",
     "level": 2,
     "geogebra": "q98yedaw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "27": {
@@ -256,8 +219,6 @@
     "name": "Caixinhas de Bombons I",
     "level": 1,
     "geogebra": "m9tvxamu",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "28": {
@@ -266,8 +227,6 @@
     "name": "Caixinhas de Bombons II",
     "level": 2,
     "geogebra": "bpwxppcj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "29": {
@@ -276,8 +235,6 @@
     "name": "Caminho de Figuras",
     "level": 1,
     "geogebra": "mgxqfgm8",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "30": {
@@ -286,8 +243,6 @@
     "name": "Camisetas e Círculos",
     "level": 1,
     "geogebra": "nrhgh7eu",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "31": {
@@ -296,8 +251,6 @@
     "name": "Carro do Sanduíche",
     "level": 1,
     "geogebra": "xz7sckzh",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "32": {
@@ -306,8 +259,6 @@
     "name": "Cartas em Ordem",
     "level": 1,
     "geogebra": "xg4eu3ve",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "33": {
@@ -316,8 +267,6 @@
     "name": "Casinhas Novas",
     "level": 2,
     "geogebra": "yge9f6ft",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "34": {
@@ -326,8 +275,6 @@
     "name": "Castelo de Cartas",
     "level": 2,
     "geogebra": "kfhaxztq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "35": {
@@ -336,8 +283,6 @@
     "name": "Cavalo do Xadrez",
     "level": 2,
     "geogebra": "ty6jyeqk",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "36": {
@@ -346,8 +291,6 @@
     "name": "Cestos de Ovos de Páscoa",
     "level": 1,
     "geogebra": "qwmxg7f8",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "37": {
@@ -356,8 +299,6 @@
     "name": "Circuito das Bandeiras",
     "level": 2,
     "geogebra": "b3dbs73k",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "38": {
@@ -366,8 +307,6 @@
     "name": "Círculos Coloridos",
     "level": 1,
     "geogebra": "edavbmtc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "39": {
@@ -376,8 +315,6 @@
     "name": "Círculos no Triângulo",
     "level": 1,
     "geogebra": "kjwpz57h",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "40": {
@@ -386,8 +323,6 @@
     "name": "Cobrindo o Tabuleiro",
     "level": 1,
     "geogebra": "zchcejud",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "41": {
@@ -396,8 +331,6 @@
     "name": "Código Secreto",
     "level": 1,
     "geogebra": "brzx8db8",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "42": {
@@ -406,8 +339,6 @@
     "name": "Coelhinha Peta",
     "level": 1,
     "geogebra": "nxdkqvee",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "43": {
@@ -416,8 +347,6 @@
     "name": "Cofre Misterioso",
     "level": 1,
     "geogebra": "x79mxz8f",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "44": {
@@ -426,8 +355,14 @@
     "name": "Coletando Moedas",
     "level": 2,
     "geogebra": "utdgbhq4",
-    "new": false,
-    "apresentacao": "",
+    "keywords": ["Lógica"]
+  },
+  "45": {
+    "icon": "45.png",
+    "header": "h45.png",
+    "name": "Concurso de Desenho",
+    "level": 2,
+    "geogebra": "pabnszxa",
     "keywords": ["Lógica"]
   },
   "46": {
@@ -436,8 +371,6 @@
     "name": "Construindo Pipas",
     "level": 1,
     "geogebra": "qxmjbpub",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "47": {
@@ -446,8 +379,6 @@
     "name": "Contando Notas",
     "level": 1,
     "geogebra": "xcnfetm9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "48": {
@@ -456,8 +387,6 @@
     "name": "Copiando Formas",
     "level": 1,
     "geogebra": "myqypstw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "49": {
@@ -466,8 +395,6 @@
     "name": "Cores e Formas I",
     "level": 1,
     "geogebra": "wkaxxscr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "50": {
@@ -476,8 +403,6 @@
     "name": "Cores e Formas II",
     "level": 2,
     "geogebra": "ugsskyd7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "51": {
@@ -486,8 +411,6 @@
     "name": "Correndo na Lagoa",
     "level": 1,
     "geogebra": "t7pph4vk",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "52": {
@@ -496,8 +419,6 @@
     "name": "Corujas para Bruxas",
     "level": 2,
     "geogebra": "rv3zayea",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "53": {
@@ -506,8 +427,6 @@
     "name": "Cubo Numérico",
     "level": 2,
     "geogebra": "r6fscrrw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "54": {
@@ -516,8 +435,6 @@
     "name": "Curvilândia",
     "level": 1,
     "geogebra": "dc5hjtzu",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "55": {
@@ -526,8 +443,6 @@
     "name": "De Volta ao Planeta Terra",
     "level": 2,
     "geogebra": "qf7fz4zr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "56": {
@@ -536,8 +451,6 @@
     "name": "Desafio das Frutas I",
     "level": 1,
     "geogebra": "ksb4hkmu",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "57": {
@@ -546,8 +459,6 @@
     "name": "Desafio das Frutas II",
     "level": 2,
     "geogebra": "n9xbjruw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "58": {
@@ -556,8 +467,6 @@
     "name": "Desafio dos Botões",
     "level": 2,
     "geogebra": "rg2rgznc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "59": {
@@ -566,8 +475,6 @@
     "name": "Desafio dos Consecutivos I",
     "level": 1,
     "geogebra": "wkpygv5m",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "60": {
@@ -576,8 +483,6 @@
     "name": "Desafio dos Consecutivos II",
     "level": 2,
     "geogebra": "zgnkkfmy",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "61": {
@@ -586,8 +491,6 @@
     "name": "Desafio dos Copos",
     "level": 2,
     "geogebra": "p3edhzxm",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "62": {
@@ -596,8 +499,6 @@
     "name": "Desafio dos Insetos",
     "level": 1,
     "geogebra": "cp52xjm7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "63": {
@@ -606,8 +507,6 @@
     "name": "Desafio dos Primos",
     "level": 2,
     "geogebra": "csyvugvd",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "64": {
@@ -616,8 +515,6 @@
     "name": "Desafio dos Primos II",
     "level": 2,
     "geogebra": "r5dtudg8",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "65": {
@@ -626,8 +523,6 @@
     "name": "Desafio no Parque",
     "level": 1,
     "geogebra": "ns2hgtaf",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "66": {
@@ -636,8 +531,6 @@
     "name": "Descobrindo o Caminho",
     "level": 1,
     "geogebra": "ytmw39sw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "67": {
@@ -646,8 +539,6 @@
     "name": "Descobrindo o Número",
     "level": 1,
     "geogebra": "pwetv46p",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "68": {
@@ -656,8 +547,6 @@
     "name": "Desenho na Malha II",
     "level": 2,
     "geogebra": "ddcu3qtb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "69": {
@@ -666,8 +555,6 @@
     "name": "Desenhos Espelhados I",
     "level": 1,
     "geogebra": "ryrmas3y",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "70": {
@@ -676,8 +563,6 @@
     "name": "Desenhos Espelhados II",
     "level": 2,
     "geogebra": "ngqesft9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "71": {
@@ -686,8 +571,6 @@
     "name": "Desenhos Iguais",
     "level": 1,
     "geogebra": "gzbustxh",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "72": {
@@ -696,8 +579,6 @@
     "name": "Discos Empilhados I",
     "level": 1,
     "geogebra": "auys3msn",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "73": {
@@ -706,8 +587,6 @@
     "name": "Discos Empilhados II",
     "level": 2,
     "geogebra": "zfqe8aum",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "74": {
@@ -716,8 +595,6 @@
     "name": "Doces ou Travessuras",
     "level": 1,
     "geogebra": "h6je3xnn",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "75": {
@@ -726,8 +603,6 @@
     "name": "Dominó das Frações",
     "level": 2,
     "geogebra": "wafkrcjr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "76": {
@@ -736,8 +611,6 @@
     "name": "Doze Lâmpadas",
     "level": 2,
     "geogebra": "rtmfjhvy",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "77": {
@@ -746,8 +619,6 @@
     "name": "Doze Semáforos",
     "level": 1,
     "geogebra": "tuxxrfad",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "78": {
@@ -756,8 +627,6 @@
     "name": "Duas Faces I",
     "level": 1,
     "geogebra": "m2z2wu9f",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "79": {
@@ -766,8 +635,6 @@
     "name": "Duas Faces II",
     "level": 2,
     "geogebra": "p5txxkaa",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "80": {
@@ -776,8 +643,6 @@
     "name": "Encaixando Botões I",
     "level": 1,
     "geogebra": "t4sn5m9u",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "81": {
@@ -786,8 +651,6 @@
     "name": "Encaixando Botões II",
     "level": 2,
     "geogebra": "zxcemhgs",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "82": {
@@ -796,8 +659,6 @@
     "name": "Encontro de Amigos",
     "level": 2,
     "geogebra": "mr6mu6ym",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "83": {
@@ -806,8 +667,6 @@
     "name": "Esportes Preferidos",
     "level": 2,
     "geogebra": "pdvh5gj6",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "84": {
@@ -816,8 +675,6 @@
     "name": "Exposição de Quadros",
     "level": 1,
     "geogebra": "qmguw4k5",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "85": {
@@ -826,8 +683,6 @@
     "name": "Faces Coloridas",
     "level": 2,
     "geogebra": "un6zfhsa",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "86": {
@@ -836,8 +691,6 @@
     "name": "Faixa de Azulejos",
     "level": 2,
     "geogebra": "xfuupvgc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "87": {
@@ -846,8 +699,6 @@
     "name": "Fatias de Pizzas",
     "level": 1,
     "geogebra": "bcpk5zcz",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "88": {
@@ -856,8 +707,6 @@
     "name": "Fechaduras Eletrônicas",
     "level": 2,
     "geogebra": "vw8ujxb9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "89": {
@@ -866,8 +715,14 @@
     "name": "Feitiço do Dragão",
     "level": 2,
     "geogebra": "xc5ud6cy",
-    "new": false,
-    "apresentacao": "",
+    "keywords": ["Lógica"]
+  },
+  "90": {
+    "icon": "90.png",
+    "header": "h90.png",
+    "name": "Feitiços Estranhos",
+    "level": 2,
+    "geogebra": "fkcbmbgu",
     "keywords": ["Lógica"]
   },
   "91": {
@@ -876,8 +731,6 @@
     "name": "Fichas e Flechas I",
     "level": 1,
     "geogebra": "ufrkzv9v",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "92": {
@@ -886,8 +739,6 @@
     "name": "Fichas e Flechas II",
     "level": 2,
     "geogebra": "j2crnqwg",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "93": {
@@ -896,8 +747,6 @@
     "name": "Fila de Cartas I",
     "level": 1,
     "geogebra": "w3ddxpr6",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "94": {
@@ -906,8 +755,6 @@
     "name": "Fila de Cartas II",
     "level": 2,
     "geogebra": "g7pb35u3",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "95": {
@@ -916,8 +763,6 @@
     "name": "Fileiras de Flores",
     "level": 1,
     "geogebra": "dyyfdauq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "96": {
@@ -926,8 +771,6 @@
     "name": "Flores no Jardim",
     "level": 2,
     "geogebra": "k2bez7wh",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "97": {
@@ -936,8 +779,6 @@
     "name": "Gincana das Alturas",
     "level": 1,
     "geogebra": "he9vcj4a",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "98": {
@@ -946,8 +787,6 @@
     "name": "Gincana do Tabuleiro",
     "level": 1,
     "geogebra": "bnuq3tfd",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "99": {
@@ -956,8 +795,6 @@
     "name": "Guardando Brinquedos",
     "level": 2,
     "geogebra": "ummq4feb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "100": {
@@ -966,8 +803,6 @@
     "name": "Hexágonos Coloridos",
     "level": 2,
     "geogebra": "unn7nkyt",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "101": {
@@ -976,8 +811,6 @@
     "name": "Jardim Vertical",
     "level": 2,
     "geogebra": "ufx8yuvn",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "102": {
@@ -986,8 +819,6 @@
     "name": "Jogo das Argolas",
     "level": 2,
     "geogebra": "awfmhfd9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "103": {
@@ -996,8 +827,6 @@
     "name": "Jogo do Camaleão I",
     "level": 1,
     "geogebra": "sc3p6g6x",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "104": {
@@ -1006,8 +835,6 @@
     "name": "Jogo do Camaleão II",
     "level": 2,
     "geogebra": "dbjeqk8n",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "105": {
@@ -1016,8 +843,6 @@
     "name": "Jogo dos Ursos",
     "level": 2,
     "geogebra": "fa9srrzv",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "106": {
@@ -1026,8 +851,6 @@
     "name": "Labirinto",
     "level": 2,
     "geogebra": "nqrf27nm",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "107": {
@@ -1036,8 +859,6 @@
     "name": "Lápis de Cor",
     "level": 1,
     "geogebra": "tvxnwncs",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "108": {
@@ -1046,8 +867,6 @@
     "name": "Lembrando a Senha",
     "level": 2,
     "geogebra": "bydtwvhj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "109": {
@@ -1056,8 +875,6 @@
     "name": "Letras nos Dados",
     "level": 2,
     "geogebra": "shdfpjpx",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "110": {
@@ -1066,8 +883,6 @@
     "name": "Macieiras e Limoeiros I",
     "level": 1,
     "geogebra": "d87rvpyd",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "111": {
@@ -1076,8 +891,6 @@
     "name": "Macieiras e Limoeiros II",
     "level": 2,
     "geogebra": "jfzwr3ah",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "112": {
@@ -1086,8 +899,6 @@
     "name": "Manobrando Veículos",
     "level": 1,
     "geogebra": "azsyfanq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "113": {
@@ -1096,8 +907,6 @@
     "name": "Maria-Fumaça",
     "level": 1,
     "geogebra": "mxj8brmb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "114": {
@@ -1106,8 +915,6 @@
     "name": "Mel na Colmeia I",
     "level": 1,
     "geogebra": "yknfmdxe",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "115": {
@@ -1116,8 +923,6 @@
     "name": "Mel na Colmeia II",
     "level": 2,
     "geogebra": "ejc8atpp",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "116": {
@@ -1126,8 +931,6 @@
     "name": "Moedas do Vovô I",
     "level": 1,
     "geogebra": "gjytn3c7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "117": {
@@ -1136,8 +939,6 @@
     "name": "Moedas do Vovô II",
     "level": 2,
     "geogebra": "pgu9uxny",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "120": {
@@ -1146,8 +947,6 @@
     "name": "Montando Figuras",
     "level": 1,
     "geogebra": "fcnfnd3p",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "121": {
@@ -1156,8 +955,6 @@
     "name": "Montando Pizzas",
     "level": 1,
     "geogebra": "baq6spq6",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "122": {
@@ -1166,8 +963,6 @@
     "name": "Montando Robôs",
     "level": 2,
     "geogebra": "rjdbzk7g",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "123": {
@@ -1176,8 +971,6 @@
     "name": "Montando Quadriláteros I",
     "level": 1,
     "geogebra": "akgqhruj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "124": {
@@ -1186,8 +979,6 @@
     "name": "Montando Quadriláteros II",
     "level": 2,
     "geogebra": "tu8j5bbm",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "125": {
@@ -1196,8 +987,6 @@
     "name": "Nenhum Quadrado I",
     "level": 1,
     "geogebra": "dmkqs2bk",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "126": {
@@ -1206,8 +995,6 @@
     "name": "Nenhum Quadrado II",
     "level": 2,
     "geogebra": "cufanjb9",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "127": {
@@ -1216,8 +1003,6 @@
     "name": "Número Secreto",
     "level": 2,
     "geogebra": "kuj7swz6",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "128": {
@@ -1226,8 +1011,6 @@
     "name": "O Almoço dos Pelicanos",
     "level": 1,
     "geogebra": "grhhq2q7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "129": {
@@ -1236,8 +1019,6 @@
     "name": "O Elevador dos Castores",
     "level": 2,
     "geogebra": "vama4rye",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "130": {
@@ -1246,8 +1027,6 @@
     "name": "O Polvo Feliz",
     "level": 1,
     "geogebra": "jhtme8zt",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "131": {
@@ -1256,8 +1035,6 @@
     "name": "O Robô da Limpeza",
     "level": 1,
     "geogebra": "ky3smdca",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "132": {
@@ -1266,8 +1043,6 @@
     "name": "O Último Vence",
     "level": 2,
     "geogebra": "nzwkzwuz",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "133": {
@@ -1276,8 +1051,6 @@
     "name": "Oito Retângulos",
     "level": 1,
     "geogebra": "cszkpazv",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "134": {
@@ -1286,8 +1059,6 @@
     "name": "Ônibus Escolar",
     "level": 2,
     "geogebra": "ppytvx7q",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "135": {
@@ -1296,8 +1067,6 @@
     "name": "Organizando a Feira",
     "level": 1,
     "geogebra": "um8rhzvc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "136": {
@@ -1306,8 +1075,6 @@
     "name": "Organizando Flores I",
     "level": 1,
     "geogebra": "vhgjpcd4",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "137": {
@@ -1316,8 +1083,6 @@
     "name": "Organizando Flores II",
     "level": 2,
     "geogebra": "sqyqfp2t",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "138": {
@@ -1326,8 +1091,6 @@
     "name": "Organizando o Curral I",
     "level": 1,
     "geogebra": "vrheutms",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "139": {
@@ -1336,8 +1099,6 @@
     "name": "Organizando o Curral II",
     "level": 2,
     "geogebra": "qjj2c99w",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "140": {
@@ -1346,8 +1107,6 @@
     "name": "Organizando o Curral III",
     "level": 2,
     "geogebra": "e7nhmu8j",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "141": {
@@ -1356,8 +1115,6 @@
     "name": "Ovos no Galinheiro",
     "level": 1,
     "geogebra": "cqgezcv5",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "142": {
@@ -1366,8 +1123,6 @@
     "name": "Painel de Fotos",
     "level": 1,
     "geogebra": "hgs6wvcq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "143": {
@@ -1376,8 +1131,6 @@
     "name": "Palíndromos I",
     "level": 1,
     "geogebra": "mngrjjbu",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "144": {
@@ -1386,8 +1139,6 @@
     "name": "Palíndromos II",
     "level": 2,
     "geogebra": "bqb4uegf",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "145": {
@@ -1396,8 +1147,6 @@
     "name": "Palitos Coloridos",
     "level": 1,
     "geogebra": "k57k7tvy",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "146": {
@@ -1406,8 +1155,6 @@
     "name": "Palitos e Quadrados I",
     "level": 1,
     "geogebra": "dfgfnwcv",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "147": {
@@ -1416,8 +1163,6 @@
     "name": "Palitos e Quadrados II",
     "level": 2,
     "geogebra": "tqahygav",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "148": {
@@ -1426,8 +1171,6 @@
     "name": "Papéis Coloridos",
     "level": 2,
     "geogebra": "a5cch3wr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "149": {
@@ -1436,8 +1179,6 @@
     "name": "Peça Quebrada",
     "level": 1,
     "geogebra": "xgbesjgp",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "150": {
@@ -1446,8 +1187,6 @@
     "name": "Peças Coloridas",
     "level": 2,
     "geogebra": "tfdbshyc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "151": {
@@ -1456,8 +1195,6 @@
     "name": "Peças Giratórias I",
     "level": 1,
     "geogebra": "dwyzhtef",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "152": {
@@ -1466,8 +1203,6 @@
     "name": "Peças Giratórias II",
     "level": 2,
     "geogebra": "vx3mdfum",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "153": {
@@ -1476,8 +1211,6 @@
     "name": "Pedras Preciosas",
     "level": 1,
     "geogebra": "mtffsh9x",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "154": {
@@ -1486,8 +1219,6 @@
     "name": "Pega-Pega",
     "level": 2,
     "geogebra": "xstnnvk2",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "155": {
@@ -1496,8 +1227,6 @@
     "name": "Pipa Colorida",
     "level": 1,
     "geogebra": "rktbg8yn",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "157": {
@@ -1506,8 +1235,6 @@
     "name": "Promoção Imperdível",
     "level": 2,
     "geogebra": "kenckkww",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "158": {
@@ -1516,8 +1243,6 @@
     "name": "Quadrado de Dominós I",
     "level": 1,
     "geogebra": "dr287wsr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "159": {
@@ -1526,8 +1251,6 @@
     "name": "Quadrado de Dominós II",
     "level": 2,
     "geogebra": "esdpe4fw",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "160": {
@@ -1536,8 +1259,6 @@
     "name": "Quatro Rotatórias",
     "level": 2,
     "geogebra": "uvmn6fh2",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "161": {
@@ -1546,8 +1267,6 @@
     "name": "Quebra-Cabeça de Presente",
     "level": 2,
     "geogebra": "ukw3syqp",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "162": {
@@ -1556,8 +1275,6 @@
     "name": "Quebra-Cabeça Diferente I",
     "level": 1,
     "geogebra": "gkdtnyvp",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "163": {
@@ -1566,8 +1283,6 @@
     "name": "Quebra-Cabeça Diferente II",
     "level": 2,
     "geogebra": "fvsrss2w",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "164": {
@@ -1576,8 +1291,6 @@
     "name": "Quebra-Cabeça Geométrico",
     "level": 2,
     "geogebra": "xpeptk3t",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "165": {
@@ -1586,8 +1299,6 @@
     "name": "Queijos no Labirinto",
     "level": 1,
     "geogebra": "yhypcyec",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "166": {
@@ -1596,8 +1307,6 @@
     "name": "Robô Pintor",
     "level": 2,
     "geogebra": "bkthydcq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "167": {
@@ -1606,8 +1315,6 @@
     "name": "Roda Numérica",
     "level": 2,
     "geogebra": "zbwkm6qp",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "168": {
@@ -1616,8 +1323,6 @@
     "name": "Saída Estreita I",
     "level": 1,
     "geogebra": "cj5qmuxb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "169": {
@@ -1626,8 +1331,6 @@
     "name": "Saída Estreita II",
     "level": 2,
     "geogebra": "b3nexctv",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "170": {
@@ -1636,8 +1339,6 @@
     "name": "Salto do Grilo",
     "level": 1,
     "geogebra": "anyxnetj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "171": {
@@ -1646,8 +1347,6 @@
     "name": "Sapo-Rei",
     "level": 2,
     "geogebra": "hx6tdfrx",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "172": {
@@ -1656,8 +1355,6 @@
     "name": "Sapos Saltitantes I",
     "level": 1,
     "geogebra": "d5jqncmt",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "173": {
@@ -1666,8 +1363,6 @@
     "name": "Sapos Saltitantes II",
     "level": 2,
     "geogebra": "v3m8dhgj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "174": {
@@ -1676,8 +1371,6 @@
     "name": "Sete Brigadeiros",
     "level": 2,
     "geogebra": "enapreag",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "175": {
@@ -1686,8 +1379,6 @@
     "name": "Sete Patinadoras",
     "level": 1,
     "geogebra": "fgxdnu2t",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "176": {
@@ -1696,8 +1387,6 @@
     "name": "Sobrepondo Peças I",
     "level": 1,
     "geogebra": "pyhzssyk",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "177": {
@@ -1706,8 +1395,6 @@
     "name": "Sobrepondo Peças II",
     "level": 2,
     "geogebra": "wdk6abbm",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "178": {
@@ -1716,8 +1403,6 @@
     "name": "Vagas Coloridas I",
     "level": 1,
     "geogebra": "bs9m2ayq",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "179": {
@@ -1726,8 +1411,6 @@
     "name": "Vagas Coloridas II",
     "level": 2,
     "geogebra": "txawfkd8",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "180": {
@@ -1736,8 +1419,6 @@
     "name": "Subida Escorregadia",
     "level": 2,
     "geogebra": "wup3j4me",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "181": {
@@ -1746,8 +1427,6 @@
     "name": "Tabuleiro Antigo I",
     "level": 1,
     "geogebra": "vz8xupz7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "182": {
@@ -1756,8 +1435,6 @@
     "name": "Tabuleiro Antigo II",
     "level": 2,
     "geogebra": "vk5qtcgf",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "183": {
@@ -1766,8 +1443,6 @@
     "name": "Tabuleiro Colorido I",
     "level": 1,
     "geogebra": "pjvxd7ah",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "184": {
@@ -1776,8 +1451,6 @@
     "name": "Tabuleiro Colorido II",
     "level": 2,
     "geogebra": "mqphtedc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "185": {
@@ -1786,8 +1459,6 @@
     "name": "Trancando Portas",
     "level": 1,
     "geogebra": "gjegnbmc",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "186": {
@@ -1796,8 +1467,6 @@
     "name": "Tapetes de Retalhos I",
     "level": 1,
     "geogebra": "byghnsuy",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "187": {
@@ -1806,8 +1475,6 @@
     "name": "Tapetes de Retalhos II",
     "level": 2,
     "geogebra": "cdeehhmj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "188": {
@@ -1816,8 +1483,6 @@
     "name": "Tapetes Enrolados I",
     "level": 1,
     "geogebra": "pkj9fsvr",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "189": {
@@ -1826,8 +1491,6 @@
     "name": "Tapetes Enrolados II",
     "level": 2,
     "geogebra": "z92stvep",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "190": {
@@ -1836,8 +1499,6 @@
     "name": "Tartarugas na Areia",
     "level": 2,
     "geogebra": "yxqxtsup",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "191": {
@@ -1846,8 +1507,6 @@
     "name": "Time de Monstros",
     "level": 2,
     "geogebra": "zqxrk9uz",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "192": {
@@ -1856,8 +1515,6 @@
     "name": "Trânsito Congestionado",
     "level": 2,
     "geogebra": "fmu36qsn",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "193": {
@@ -1866,8 +1523,6 @@
     "name": "Treinando Pássaros",
     "level": 2,
     "geogebra": "crksd5nj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "194": {
@@ -1876,8 +1531,6 @@
     "name": "Trem de Minas I",
     "level": 1,
     "geogebra": "ydgxvp9r",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "195": {
@@ -1886,8 +1539,6 @@
     "name": "Trem de Minas II",
     "level": 2,
     "geogebra": "wu6zkspe",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "196": {
@@ -1896,8 +1547,6 @@
     "name": "Triângulos Amigos",
     "level": 1,
     "geogebra": "zjdmrmzj",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "197": {
@@ -1906,8 +1555,6 @@
     "name": "Troca de Etiquetas",
     "level": 1,
     "geogebra": "hvpvxm7b",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "198": {
@@ -1916,8 +1563,6 @@
     "name": "Trocando Adesivos I",
     "level": 1,
     "geogebra": "ga4npbpg",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "199": {
@@ -1926,8 +1571,6 @@
     "name": "Trocando Adesivos II",
     "level": 2,
     "geogebra": "chxhwwpg",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "200": {
@@ -1936,8 +1579,6 @@
     "name": "Vira-Vira",
     "level": 1,
     "geogebra": "aspth229",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "201": {
@@ -1946,8 +1587,6 @@
     "name": "Vizinhos",
     "level": 1,
     "geogebra": "sanuzetb",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "202": {
@@ -1956,8 +1595,6 @@
     "name": "Caça-Palavras",
     "level": 1,
     "geogebra": "rsztgf3f",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "203": {
@@ -1966,8 +1603,6 @@
     "name": "Palitos e Triângulos I",
     "level": 1,
     "geogebra": "hvusaaqt",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "204": {
@@ -1976,8 +1611,6 @@
     "name": "Palitos e Triângulos II",
     "level": 2,
     "geogebra": "hpcpebw7",
-    "new": false,
-    "apresentacao": "",
     "keywords": ["Lógica"]
   },
   "205": {
@@ -1986,7 +1619,6 @@
     "name": "Relógio de Ponteiros",
     "level": 3,
     "geogebra": "xgwcvu42",
-    "new": false,
     "keywords": []
   },
   "206": {
@@ -2013,7 +1645,6 @@
     "name": "Ângulos",
     "level": 3,
     "geogebra": "nykgqze4",
-    "new": false,
     "keywords": []
   }
 }
