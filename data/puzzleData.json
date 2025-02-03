@@ -1627,7 +1627,6 @@
     "name": "Sequências Numéricas",
     "level": 3,
     "geogebra": "m724sr6e",
-    "new": true,
     "keywords": []
   },
   "207": {
@@ -1636,7 +1635,6 @@
     "name": "Perímetros",
     "level": 3,
     "geogebra": "snwjyvew",
-    "new": true,
     "keywords": []
   },
   "208": {
@@ -1645,6 +1643,14 @@
     "name": "Ângulos",
     "level": 3,
     "geogebra": "nykgqze4",
+    "keywords": []
+  },
+  "209": {
+    "icon": "209.png",
+    "header": "h209.png",
+    "name": "Adição de Frações",
+    "level": 3,
+    "geogebra": "srctkqf9",
     "keywords": []
   }
 }
