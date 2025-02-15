@@ -1,4 +1,4 @@
-const cacheName = "site-static-v1";
+const cacheName = "site-static-v2";
 const assets = [
   "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap"
 ];
