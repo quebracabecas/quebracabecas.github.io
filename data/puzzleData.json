@@ -47,7 +47,7 @@
     "geogebra": "hcba7mjh",
     "portalID": 968,
     "apresentacao": "1sj3usTAJffOmaLwl0olXrTAyRUtsvcvM",
-    "keywords": ["Lógica", "Subtração", "Adição"]
+    "keywords": ["Subtração", "Adição"]
   },
   "6": {
     "icon": "5.png",
@@ -57,7 +57,7 @@
     "geogebra": "cfm6wmty",
     "portalID": 974,
     "apresentacao": "1fubXgbaksHawBrh9L8v7ZONNFOCXhgmR",
-    "keywords": ["Lógica", "Subtração", "Adição"]
+    "keywords": ["Subtração", "Adição"]
   },
   "7": {
     "icon": "7.png",
@@ -107,7 +107,7 @@
     "geogebra": "p4dhxg75",
     "portalID": 248,
     "apresentacao": "1r9vSlvNmT9uYdftpPM1_A5ZEZawRRW8W",
-    "keywords": ["Lógica", "Gráficos"]
+    "keywords": ["Gráfico"]
   },
   "12": {
     "icon": "12.png",
@@ -123,7 +123,7 @@
     "name": "Afrânio, o Pesquisador I",
     "level": 1,
     "geogebra": "fqt8h8ux",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "15": {
     "icon": "14.png",
@@ -131,7 +131,7 @@
     "name": "Afrânio, o Pesquisador II",
     "level": 2,
     "geogebra": "k5ddfsvd",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "16": {
     "icon": "16.png",
@@ -179,7 +179,7 @@
     "name": "Bandeirinhas Juninas",
     "level": 1,
     "geogebra": "b9tys7y9",
-    "keywords": ["Lógica"]
+    "keywords": ["Sequência"]
   },
   "23": {
     "icon": "23.png",
@@ -387,7 +387,7 @@
     "name": "Copiando Formas",
     "level": 1,
     "geogebra": "myqypstw",
-    "keywords": ["Lógica"]
+    "keywords": ["Geometria"]
   },
   "49": {
     "icon": "49.png",
@@ -419,7 +419,7 @@
     "name": "Corujas para Bruxas",
     "level": 2,
     "geogebra": "rv3zayea",
-    "keywords": ["Lógica"]
+    "keywords": ["Paridade"]
   },
   "53": {
     "icon": "53.png",
@@ -427,7 +427,7 @@
     "name": "Cubo Numérico",
     "level": 2,
     "geogebra": "r6fscrrw",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "54": {
     "icon": "54.png",
@@ -547,7 +547,7 @@
     "name": "Desenho na Malha II",
     "level": 2,
     "geogebra": "ddcu3qtb",
-    "keywords": ["Lógica"]
+    "keywords": ["Gráfico"]
   },
   "69": {
     "icon": "69.png",
@@ -595,7 +595,7 @@
     "name": "Doces ou Travessuras",
     "level": 1,
     "geogebra": "h6je3xnn",
-    "keywords": ["Lógica"]
+    "keywords": ["Divisão"]
   },
   "75": {
     "icon": "75.png",
@@ -603,7 +603,7 @@
     "name": "Dominó das Frações",
     "level": 2,
     "geogebra": "wafkrcjr",
-    "keywords": ["Lógica"]
+    "keywords": ["Fração"]
   },
   "76": {
     "icon": "76.png",
@@ -611,7 +611,7 @@
     "name": "Doze Lâmpadas",
     "level": 2,
     "geogebra": "rtmfjhvy",
-    "keywords": ["Lógica"]
+    "keywords": ["Multiplicação"]
   },
   "77": {
     "icon": "77.png",
@@ -699,7 +699,7 @@
     "name": "Fatias de Pizzas",
     "level": 1,
     "geogebra": "bcpk5zcz",
-    "keywords": ["Lógica"]
+    "keywords": ["Ângulo", "Fração"]
   },
   "88": {
     "icon": "88.png",
@@ -723,7 +723,7 @@
     "name": "Feitiços Estranhos",
     "level": 2,
     "geogebra": "fkcbmbgu",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição", "Subtração"]
   },
   "91": {
     "icon": "91.png",
@@ -763,13 +763,13 @@
     "name": "Fileiras de Flores",
     "level": 1,
     "geogebra": "dyyfdauq",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "96": {
     "icon": "96.png",
     "header": "h96.png",
     "name": "Flores no Jardim",
-    "level": 2,
+    "level": 0,
     "geogebra": "k2bez7wh",
     "keywords": ["Lógica"]
   },
@@ -795,7 +795,7 @@
     "name": "Guardando Brinquedos",
     "level": 2,
     "geogebra": "ummq4feb",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "100": {
     "icon": "100.png",
@@ -811,7 +811,7 @@
     "name": "Jardim Vertical",
     "level": 2,
     "geogebra": "ufx8yuvn",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "102": {
     "icon": "102.png",
@@ -851,7 +851,7 @@
     "name": "Labirinto",
     "level": 2,
     "geogebra": "nqrf27nm",
-    "keywords": ["Lógica"]
+    "keywords": ["Fração"]
   },
   "107": {
     "icon": "107.png",
@@ -867,7 +867,7 @@
     "name": "Lembrando a Senha",
     "level": 2,
     "geogebra": "bydtwvhj",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "109": {
     "icon": "109.png",
@@ -907,7 +907,7 @@
     "name": "Maria-Fumaça",
     "level": 1,
     "geogebra": "mxj8brmb",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "114": {
     "icon": "114.png",
@@ -963,7 +963,7 @@
     "name": "Montando Figuras",
     "level": 1,
     "geogebra": "fcnfnd3p",
-    "keywords": ["Lógica"]
+    "keywords": ["Geometria"]
   },
   "121": {
     "icon": "121.png",
@@ -979,7 +979,7 @@
     "name": "Montando Robôs",
     "level": 2,
     "geogebra": "rjdbzk7g",
-    "keywords": ["Lógica"]
+    "keywords": ["Combinatória"]
   },
   "123": {
     "icon": "123.png",
@@ -987,7 +987,7 @@
     "name": "Montando Quadriláteros I",
     "level": 1,
     "geogebra": "akgqhruj",
-    "keywords": ["Lógica"]
+    "keywords": ["Geometria"]
   },
   "124": {
     "icon": "124.png",
@@ -995,7 +995,7 @@
     "name": "Montando Quadriláteros II",
     "level": 2,
     "geogebra": "tu8j5bbm",
-    "keywords": ["Lógica"]
+    "keywords": ["Geometria"]
   },
   "125": {
     "icon": "125.png",
@@ -1043,7 +1043,7 @@
     "name": "O Polvo Feliz",
     "level": 1,
     "geogebra": "jhtme8zt",
-    "keywords": ["Lógica"]
+    "keywords": ["Paridade"]
   },
   "131": {
     "icon": "131.png",
@@ -1051,7 +1051,7 @@
     "name": "O Robô da Limpeza",
     "level": 1,
     "geogebra": "ky3smdca",
-    "keywords": ["Lógica"]
+    "keywords": ["Combinatória"]
   },
   "132": {
     "icon": "132.png",
@@ -1211,7 +1211,7 @@
     "name": "Peças Giratórias I",
     "level": 1,
     "geogebra": "dwyzhtef",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "152": {
     "icon": "152.png",
@@ -1219,7 +1219,7 @@
     "name": "Peças Giratórias II",
     "level": 2,
     "geogebra": "vx3mdfum",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "153": {
     "icon": "153.png",
@@ -1227,7 +1227,7 @@
     "name": "Pedras Preciosas",
     "level": 1,
     "geogebra": "mtffsh9x",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "154": {
     "icon": "154.png",
@@ -1259,7 +1259,7 @@
     "name": "Quadrado de Dominós I",
     "level": 1,
     "geogebra": "dr287wsr",
-    "keywords": ["Lógica"]
+    "keywords": ["Multiplicação"]
   },
   "159": {
     "icon": "159.png",
@@ -1267,7 +1267,7 @@
     "name": "Quadrado de Dominós II",
     "level": 2,
     "geogebra": "esdpe4fw",
-    "keywords": ["Lógica"]
+    "keywords": ["Multiplicação"]
   },
   "160": {
     "icon": "160.png",
@@ -1275,7 +1275,7 @@
     "name": "Quatro Rotatórias",
     "level": 2,
     "geogebra": "uvmn6fh2",
-    "keywords": ["Lógica"]
+    "keywords": ["Combinatória"]
   },
   "161": {
     "icon": "161.png",
@@ -1283,7 +1283,7 @@
     "name": "Quebra-Cabeça de Presente",
     "level": 2,
     "geogebra": "ukw3syqp",
-    "keywords": ["Lógica"]
+    "keywords": ["Geometria"]
   },
   "162": {
     "icon": "162.png",
@@ -1355,7 +1355,7 @@
     "name": "Salto do Grilo",
     "level": 1,
     "geogebra": "anyxnetj",
-    "keywords": ["Lógica"]
+    "keywords": ["Paridade"]
   },
   "171": {
     "icon": "171.png",
@@ -1435,7 +1435,7 @@
     "name": "Subida Escorregadia",
     "level": 2,
     "geogebra": "wup3j4me",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "181": {
     "icon": "181.png",
@@ -1579,7 +1579,7 @@
     "name": "Trocando Adesivos I",
     "level": 1,
     "geogebra": "ga4npbpg",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "199": {
     "icon": "198.png",
@@ -1587,7 +1587,7 @@
     "name": "Trocando Adesivos II",
     "level": 2,
     "geogebra": "chxhwwpg",
-    "keywords": ["Lógica"]
+    "keywords": ["Adição"]
   },
   "200": {
     "icon": "200.png",
