@@ -1692,5 +1692,21 @@
     "level": 3,
     "geogebra": "z4nkbsxu",
     "keywords": []
+  },
+  "213": {
+    "icon": "213.png",
+    "header": "blank.png",
+    "name": "Área de Retângulos",
+    "level": 3,
+    "geogebra": "vuhdcxgb",
+    "keywords": []
+  },
+  "214": {
+    "icon": "214.png",
+    "header": "blank.png",
+    "name": "Conversão de Medidas",
+    "level": 3,
+    "geogebra": "q4qfqpbn",
+    "keywords": []
   }
 }

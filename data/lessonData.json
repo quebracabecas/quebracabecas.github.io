@@ -54,6 +54,12 @@
     "video": "Interpretação de Gráficos",
     "related": ["212", "11", "68"]
   },
+  "10": {
+    "name": "Área de Quadrados e Retângulos",
+    "image": "area-retangulos.png",
+    "video": "Área de Quadrados e Retângulos",
+    "related": ["213"]
+  },
   "11": {
     "name": "Introdução à Equação",
     "image": "equacao.png",
@@ -129,6 +135,6 @@
     "name": "Convertendo Comprimento",
     "image": "medidas-comprimento.png",
     "video": "Conversão de Medidas de Comprimento",
-    "related": ["209"]
+    "related": ["214"]
   }  
 }
