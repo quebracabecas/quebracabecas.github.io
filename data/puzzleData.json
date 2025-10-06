@@ -1708,5 +1708,13 @@
     "level": 3,
     "geogebra": "q4qfqpbn",
     "keywords": []
+  },
+  "215": {
+    "icon": "215.png",
+    "header": "blank.png",
+    "name": "Área de Triângulos",
+    "level": 3,
+    "geogebra": "zwbshryh",
+    "keywords": []
   }
 }
