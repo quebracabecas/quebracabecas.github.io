@@ -1716,5 +1716,21 @@
     "level": 3,
     "geogebra": "zwbshryh",
     "keywords": []
+  },
+  "216": {
+    "icon": "216.png",
+    "header": "blank.png",
+    "name": "Números Decimais",
+    "level": 3,
+    "geogebra": "rfp6rzzk",
+    "keywords": []
+  },
+  "217": {
+    "icon": "217.png",
+    "header": "blank.png",
+    "name": "Média Aritmética",
+    "level": 3,
+    "geogebra": "wcbdy4mc",
+    "keywords": []
   }
 }
