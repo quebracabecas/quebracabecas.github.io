@@ -1733,9 +1733,17 @@
   "217": {
     "icon": "217.png",
     "header": "blank.png",
-    "name": "Média Aritmética",
+    "name": "Média Aritmética I",
     "level": 3,
     "geogebra": "wcbdy4mc",
+    "keywords": []
+  },
+  "218": {
+    "icon": "218.png",
+    "header": "blank.png",
+    "name": "Média Aritmética II",
+    "level": 3,
+    "geogebra": "bttbbkes",
     "keywords": []
   }
 }
