@@ -132,19 +132,19 @@
     "related": ["209"]
   },
   "23": {
-    "name": "Conversão Comprimento",
+    "name": "Conversão de Medidas de Comprimento",
     "image": "medidas-comprimento.png",
     "video": "Conversão de Medidas de Comprimento",
     "related": ["214"]
   },
   "24": {
-    "name": "Conversão Área",
+    "name": "Conversão de Medidas de Área",
     "image": "medidas-area.png",
     "video": "Conversão de Medidas de Área",
     "related": []
   },
   "25": {
-    "name": "Área de Triângulos",
+    "name": "Área de Triângulos e Paralelogramos",
     "image": "area-triangulos.png",
     "video": "Área de Triângulos e Paralelogramos",
     "related": ["215"]

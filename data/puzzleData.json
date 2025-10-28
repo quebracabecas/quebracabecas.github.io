@@ -1665,6 +1665,7 @@
     "icon": "209.png",
     "header": "blank.png",
     "name": "Adição e Subtração de Frações",
+    "longTitle": true,
     "level": 3,
     "geogebra": "srctkqf9",
     "keywords": []
@@ -1696,7 +1697,8 @@
   "213": {
     "icon": "213.png",
     "header": "blank.png",
-    "name": "Área de Retângulos",
+    "name": "Área de Retângulos e Quadrados",
+    "longTitle": true,
     "level": 3,
     "geogebra": "vuhdcxgb",
     "keywords": []
@@ -1704,7 +1706,8 @@
   "214": {
     "icon": "214.png",
     "header": "blank.png",
-    "name": "Conversão de Medidas",
+    "name": "Conversão de Medidas de Comprimento",
+    "longTitle": true,
     "level": 3,
     "geogebra": "q4qfqpbn",
     "keywords": []
@@ -1712,7 +1715,8 @@
   "215": {
     "icon": "215.png",
     "header": "blank.png",
-    "name": "Área de Triângulos",
+    "name": "Área de Triângulos e Paralelogramos",
+    "longTitle": true,
     "level": 3,
     "geogebra": "zwbshryh",
     "keywords": []
@@ -1720,7 +1724,8 @@
   "216": {
     "icon": "216.png",
     "header": "blank.png",
-    "name": "Números Decimais",
+    "name": "Adição e Subtração de Números Decimais",
+    "longTitle": true,
     "level": 3,
     "geogebra": "rfp6rzzk",
     "keywords": []
