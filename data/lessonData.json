@@ -141,12 +141,36 @@
     "name": "Conversão de Medidas de Área",
     "image": "medidas-area.png",
     "video": "Conversão de Medidas de Área",
-    "related": []
+    "related": ["221"]
   },
   "25": {
     "name": "Área de Triângulos e Paralelogramos",
     "image": "area-triangulos.png",
     "video": "Área de Triângulos e Paralelogramos",
     "related": ["215"]
+  },
+  "26": {
+    "name": "Adição e Subtração de Números Decimais",
+    "image": "adicao-decimais.png",
+    "video": "Adição e Subtração de Números Decimais",
+    "related": ["216"]
+  },
+  "27": {
+    "name": "Divisão de Frações",
+    "image": "divisao-fracoes.png",
+    "video": "Divisão de Frações",
+    "related": ["220"]
+  },
+  "28": {
+    "name": "Multiplicação de Frações",
+    "image": "multiplicacao-fracoes.png",
+    "video": "Multiplicação de Frações",
+    "related": ["219"]
+  },
+  "29": {
+    "name": "Média Aritmética",
+    "image": "media-aritmetica.png",
+    "video": "Média Aritmética",
+    "related": ["217", "218"]
   }
 }
