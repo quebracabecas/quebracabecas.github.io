@@ -1779,5 +1779,38 @@
     "level": 3,
     "geogebra": "v8rqk2tk",
     "keywords": []
+  },
+  "223": {
+    "icon": "223.png",
+    "header": "blank.png",
+    "name": "Moda",
+    "level": 3,
+    "geogebra": "z22fytaz",
+    "keywords": []
+  },
+  "224": {
+    "icon": "224.png",
+    "header": "blank.png",
+    "name": "Mediana",
+    "level": 3,
+    "geogebra": "nfp8scg8",
+    "keywords": []
+  },
+  "225": {
+    "icon": "225.png",
+    "header": "blank.png",
+    "name": "Sistema de Equações",
+    "level": 3,
+    "geogebra": "pv79spf6",
+    "keywords": []
+  },
+  "226": {
+    "icon": "226.png",
+    "header": "blank.png",
+    "name": "Decomposição em Fatores Primos",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "v9na9u7b",
+    "keywords": []
   }
 }
