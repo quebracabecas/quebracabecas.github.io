@@ -1812,5 +1812,32 @@
     "level": 3,
     "geogebra": "v9na9u7b",
     "keywords": []
+  },
+  "227": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Classificação de Ângulos",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "x5re25jt",
+    "keywords": []
+  },
+  "228": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Mínimo Múltiplo Comum",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "wacafqe2",
+    "keywords": []
+  },
+  "229": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Área de Losangos e Trapézios",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "tq5wzgba",
+    "keywords": []
   }
 }
