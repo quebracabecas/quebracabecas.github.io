@@ -172,5 +172,17 @@
     "image": "media-aritmetica.png",
     "video": "Média Aritmética",
     "related": ["217", "218"]
+  },
+  "30": {
+    "name": "Decomposição em Fatores Primos",
+    "image": "media-aritmetica.png",
+    "video": "Decomposição em Fatores Primos",
+    "related": ["226"]
+  },
+  "31": {
+    "name": "Mínimo Múltiplo Comum",
+    "image": "media-aritmetica.png",
+    "video": "Mínimo Múltiplo Comum",
+    "related": ["228"]
   }
 }
