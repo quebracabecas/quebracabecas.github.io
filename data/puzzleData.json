@@ -6,7 +6,6 @@
     "level": 1,
     "geogebra": "urpsrx5b",
     "portalID": 174,
-    "apresentacao": "1yLq__6YC-zJqVSDucWiB50zW2E0cQ76Y",
     "keywords": ["Lógica"]
   },
   "2": {
@@ -16,7 +15,6 @@
     "level": 1,
     "geogebra": "b8zxsrym",
     "portalID": 181,
-    "apresentacao": "1x-k6zo_tl8zHmSsH4EZtnGQuLH2NhZ5n",
     "keywords": ["Lógica"]
   },
   "3": {
@@ -26,7 +24,6 @@
     "geogebra": "rapfxgny",
     "level": 1,
     "portalID": 171,
-    "apresentacao": "15ePsuM5UEE1xmgAigFeZyEk_dAWtZcw_",
     "keywords": ["Lógica"]
   },
   "4": {
@@ -36,7 +33,6 @@
     "level": 2,
     "geogebra": "e84aqzge",
     "portalID": 936,
-    "apresentacao": "1eQicQIbRwlJUlGo0MYLkcKxx_E8UhC3u",
     "keywords": ["Lógica"]
   },
   "5": {
@@ -46,7 +42,6 @@
     "level": 1,
     "geogebra": "hcba7mjh",
     "portalID": 968,
-    "apresentacao": "1sj3usTAJffOmaLwl0olXrTAyRUtsvcvM",
     "keywords": ["Subtração", "Adição"]
   },
   "6": {
@@ -56,7 +51,6 @@
     "level": 2,
     "geogebra": "cfm6wmty",
     "portalID": 974,
-    "apresentacao": "1fubXgbaksHawBrh9L8v7ZONNFOCXhgmR",
     "keywords": ["Subtração", "Adição"]
   },
   "7": {
@@ -66,7 +60,6 @@
     "level": 1,
     "geogebra": "ywdzhww9",
     "portalID": 908,
-    "apresentacao": "1mHxq1IjWRjOJFl7aea5tkjNdLP-PeDcI",
     "keywords": ["Lógica"]
   },
   "8": {
@@ -76,7 +69,6 @@
     "level": 2,
     "geogebra": "n89vyedq",
     "portalID": 918,
-    "apresentacao": "1fKIfV8Z_Qnl5KkEjtcOZtS6oVlhHS7Wh",
     "keywords": ["Lógica"]
   },
   "9": {
@@ -86,7 +78,6 @@
     "level": 1,
     "geogebra": "djq4drg7",
     "portalID": 934,
-    "apresentacao": "1wzLTKl3WLUiaY8HwlEvm5BUCgsvLLb_Q",
     "keywords": ["Adição"]
   },
   "10": {
@@ -96,7 +87,6 @@
     "level": 2,
     "geogebra": "kcpkzrna",
     "portalID": 935,
-    "apresentacao": "1cpccWg62hzduRMEzKh4RbP3Jz4-LqR-L",
     "keywords": ["Adição"]
   },
   "11": {
@@ -106,7 +96,6 @@
     "level": 1,
     "geogebra": "p4dhxg75",
     "portalID": 248,
-    "apresentacao": "1r9vSlvNmT9uYdftpPM1_A5ZEZawRRW8W",
     "keywords": ["Gráfico"]
   },
   "12": {
@@ -1814,7 +1803,7 @@
     "keywords": []
   },
   "227": {
-    "icon": "blank.png",
+    "icon": "227.png",
     "header": "blank.png",
     "name": "Classificação de Ângulos",
     "longTitle": true,
@@ -1823,7 +1812,7 @@
     "keywords": []
   },
   "228": {
-    "icon": "blank.png",
+    "icon": "228.png",
     "header": "blank.png",
     "name": "Mínimo Múltiplo Comum",
     "longTitle": true,
@@ -1832,7 +1821,7 @@
     "keywords": []
   },
   "229": {
-    "icon": "blank.png",
+    "icon": "229.png",
     "header": "blank.png",
     "name": "Área de Losangos e Trapézios",
     "longTitle": true,
@@ -1841,7 +1830,7 @@
     "keywords": []
   },
   "230": {
-    "icon": "blank.png",
+    "icon": "230.png",
     "header": "blank.png",
     "name": "Adição de Números Naturais",
     "longTitle": true,
@@ -1850,7 +1839,7 @@
     "keywords": []
   },
   "231": {
-    "icon": "blank.png",
+    "icon": "231.png",
     "header": "blank.png",
     "name": "Subtração de Números Naturais",
     "longTitle": true,
@@ -1859,7 +1848,7 @@
     "keywords": []
   },
   "232": {
-    "icon": "blank.png",
+    "icon": "232.png",
     "header": "blank.png",
     "name": "Máximo Divisor Comum",
     "longTitle": true,
@@ -1868,7 +1857,7 @@
     "keywords": []
   },
   "233": {
-    "icon": "blank.png",
+    "icon": "233.png",
     "header": "blank.png",
     "name": "Volume de Paralelepípedo e Cubo",
     "longTitle": true,
