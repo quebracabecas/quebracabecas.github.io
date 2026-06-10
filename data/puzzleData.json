@@ -1839,5 +1839,41 @@
     "level": 3,
     "geogebra": "tq5wzgba",
     "keywords": []
+  },
+  "230": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Adição de Números Naturais",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "wbvj5tru",
+    "keywords": []
+  },
+  "231": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Subtração de Números Naturais",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "nhfm5ydx",
+    "keywords": []
+  },
+  "232": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Máximo Divisor Comum",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "wph6bz2r",
+    "keywords": []
+  },
+  "233": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Volume de Paralelepípedo e Cubo",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "w597kvhm",
+    "keywords": []
   }
 }
