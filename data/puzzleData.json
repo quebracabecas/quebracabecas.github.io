@@ -1864,5 +1864,50 @@
     "level": 3,
     "geogebra": "w597kvhm",
     "keywords": []
+  },
+  "234": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Frações",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "a3zpzdtd",
+    "keywords": []
+  },
+  "235": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Introdução à Álgebra",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "xmgeup7y",
+    "keywords": []
+  },
+  "236": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Sequência de Figuras",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "ccdub7dc",
+    "keywords": []
+  },
+  "237": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Introdução à Equação",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "gmwvtucr",
+    "keywords": []
+  },
+  "238": {
+    "icon": "blank.png",
+    "header": "blank.png",
+    "name": "Resolvendo Equações",
+    "longTitle": true,
+    "level": 3,
+    "geogebra": "sfdv8ja5",
+    "keywords": []
   }
 }
